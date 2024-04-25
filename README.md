@@ -8,4 +8,4 @@ Feel free to explore the various sections, dive into the projects, and engage wi
 Thank you for visiting, and I hope you find this repository informative, inspiring, and valuable for your learning endeavors! 📚💡
 
 ## Table of Contents
-1. <a href="url">Exercise 5 - Linear Regression</a>
+1. <a href="Assessment_5_LogisticRegression_Bank-Customer (1).pdf">Exercise 5 - Linear Regression</a>
