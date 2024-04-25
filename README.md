@@ -9,22 +9,20 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #f2f2f2; /* Light gray background */
-            color: #333; /* Dark gray text */
             padding: 20px;
             margin: 0;
         }
         h1 {
+            color: #333; /* Dark gray text */
             text-align: center;
-        }
-        h2 {
-            color: #007bff; /* Blue heading */
+            margin-bottom: 20px;
         }
         section {
-            background-color: #fff; /* White background */
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow effect */
+            background-color: #ffd6d6; /* Pastel pink background */
+            border: 1px solid #ffb3b3; /* Lighter pink border */
             padding: 20px;
             margin-bottom: 20px;
+            border-radius: 5px;
         }
         a {
             color: #007bff; /* Blue link color */
