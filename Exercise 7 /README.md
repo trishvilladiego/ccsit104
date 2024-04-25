@@ -1,4 +1,4 @@
-# Assessment Task: Netflix Userbase Analysis
+# Assessment Task 7: Netflix Userbase Analysis
 # Objective:
 Leverage linear regression to predict Monthly Revenue and logistic regression to classify customers based
 on a positive or negative feedback proxy, using the Netflix Userbase dataset. This task will encompass
