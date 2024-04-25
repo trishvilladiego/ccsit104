@@ -1,4 +1,4 @@
-# Assessment Task: Predicting Feedback on Online Food Orders Using Logistic Regression
+# Assessment Task 6: Predicting Feedback on Online Food Orders Using Logistic Regression
 ## Objective:
 Develop a logistic regression model to predict the customer feedback (positive/negative) on online food orders. This task involves data loading, preprocessing, exploratory data analysis (EDA), model building, evaluation, and visualization.
 
