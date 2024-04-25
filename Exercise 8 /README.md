@@ -1,4 +1,4 @@
-# Assessment Task 7: Pollution Data Time Series Analysis Using ARIMA
+# Assessment Task 8: Pollution Data Time Series Analysis Using ARIMA
 # Objective:
 The goal of this assessment is to simulate a time series dataset representing a country's annual pollution
 levels over a decade. You will apply time series analysis techniques, including the ARIMA (Autoregressive
